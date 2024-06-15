@@ -12,7 +12,7 @@ scriptsDir=${PWD}/scripts/
 samples="LE_WT larvae_DWT pupae_DWT LD_gypsy1 LD_gypsy2 LD_gypsy3"
 
 # Mapping of the datasets and the mishaDB entries for the observed tracks
-# have been obtained using the "shHiC2" pipeline in
+# have been obtained using the "shHiC2" pipeline in https://github.com/tanaylab/schic2
 # T. Nagano, Y. Lubling, C. Várnai, C. Dudley, W. Leung, Y. Baran, N. M. Cohen, S. Wingett, P. Fraser, A. Tanay,
 # Cell-cycle dynamics of chromosomal organization at single-cell resolution. Nature 547, 61–67 (2017).
 
