@@ -1,0 +1,4 @@
+.y.	group1	group2	p	p.adj	p.format	p.signif	method
+Log2FC_ContactsVsTotal_LE_WT	LE_WT	larvae_DWT	0.000779424725164064	0.0016	0.00078	***	Wilcoxon
+Log2FC_ContactsVsTotal_LE_WT	LE_WT	pupae_DWT	0.0000000026392772480142	0.0000000079	0.0000000026	****	Wilcoxon
+Log2FC_ContactsVsTotal_LE_WT	larvae_DWT	pupae_DWT	0.01076976176198	0.011	0.01077	*	Wilcoxon
