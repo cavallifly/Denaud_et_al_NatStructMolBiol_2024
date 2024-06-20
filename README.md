@@ -1,1 +1,1 @@
-# Denaud_et_al_NatStructMolBiol_2024
+# Denaud et al NatStructMolBiol 2024
