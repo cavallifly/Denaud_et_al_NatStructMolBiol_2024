@@ -38,7 +38,7 @@ Next, you should download the misha tracks from GEO for the observed counts in t
 - GSM7888082	Larv gypsy3 insertion HiC Repli1res
 - GSM7888083	Larv gypsy3 insertion HiC Repli2res
 
-These tracks have been obtained using the "scHiC2" pipeline in T. Nagano et al., Cell-cycle dynamics of chromosomal organization at single-cell resolution. Nature 547, 61–67 (2017).
+These tracks have been obtained using the "scHiC2" [pipeline](https://github.com/tanaylab/schic2).
 
 # Data analysis #
 Now, you are ready to run the scripts in HiC_analysis/scripts. To do so, you can access the directory HiC_analysis of this repository using
