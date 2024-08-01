@@ -1,4 +1,3 @@
-# Denaud et al NatStructMolBiol 2024
 This repository contains the scripts to reproduce the figures in the manuscript Denaud et al NatStructMolBiol 2024
 
 # Dependencies #
