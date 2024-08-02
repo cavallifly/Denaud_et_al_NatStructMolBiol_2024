@@ -1,4 +1,4 @@
-This repository contains the scripts to reproduce the figures on the CnR analysis in the manuscript Denaud et al NatStructMolBiol 2024
+This repository contains the scripts to reproduce the figures on the CnR analysis in the manuscript Denaud et al 2024
 
 # Dependencies #
 We suggest to install [conda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html) and create an [environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
